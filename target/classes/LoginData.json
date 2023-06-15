@@ -1,0 +1,19 @@
+{
+  "url": "https://demowebshop.tricentis.com/login",
+  "user1": {
+    "username": "tnmla99@gmil.com",
+    "password": "webshop"
+  },
+  "user2": {
+    "username": "hellouser2user2@gamil.com",
+    "password": "User2@123"
+  },
+  "user3": {
+    "username": "hellouser1user1@gmail.com",
+    "password": "User1@123"
+  },
+  "user4": {
+    "username": "sweetyoffice@gmail.com"
+    "password": "Sweety@123"
+  }
+}

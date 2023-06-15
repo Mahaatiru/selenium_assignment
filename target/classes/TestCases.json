@@ -1,0 +1,22 @@
+{
+  "tc01": {
+    "scenario": "bothCorrect",
+    "Username": "tnmla99@gmil.com",
+    "password": "webshop"
+  },
+  "tc02": {
+    "scenario": "bothWrong",
+    "Username": "xyz@gmail.com",
+    "password": "admin"
+  },
+  "tc03": {
+    "scenario": "correctUsername",
+    "Username": "aishu@gmail.com",
+    "password": "aishu"
+  },
+  "tc04": {
+    "scenario": "correctPassword",
+    "Username": "adminusername@gmail.com",
+    "password": "p@ssword"
+  }
+}
