@@ -21,6 +21,7 @@ public class TestSearch {
     public void setUp() throws IOException, org.json.simple.parser.ParseException
     {
         WebDriverManager.chromedriver().setup();
+
         String chromeDriverPath = "C:\\software\\chromedriver_ver113\\chromedriver\\chromedriver.exe";
         System.setProperty("webDriver.chrome.driver", chromeDriverPath);
         String LoginDataPath = "src/main/resources/LoginData.json";
