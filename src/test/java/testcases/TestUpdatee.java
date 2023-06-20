@@ -65,6 +65,7 @@ public class TestUpdatee {
         h.setText5(Username);
         h.setText3(password);
         h.clickLogin1();
+
         Thread.sleep(2000);
         h.clickAccount();
         h.setClear();

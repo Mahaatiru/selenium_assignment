@@ -61,6 +61,7 @@ public class LoginsJson {
         JSONParser parser = new JSONParser();
         Object obj = parser.parse(fr);
         if (scenario.equals("bothCorrect")) {
+
             System.out.println("login success");
 
         } else if (scenario.equals("bothWrong")) {

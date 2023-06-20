@@ -8,9 +8,10 @@ import org.testng.Assert;
 import java.util.concurrent.TimeUnit;
 
 public class TestAssert {
+    public static void main(String[] args) {
+
+
     WebDriver driver=null;
-    public void testAssert()
-    {
 
         WebDriverManager.chromedriver().setup();
         String ExpectedTitle=" Demo Web Shop. Login";
