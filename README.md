@@ -1,5 +1,5 @@
 # selenium_assignment
-In this assignment as a team, we have done automation testing using Selenium on tricentis.com The operations done are:
+In this assignment ,I have done automation testing using Selenium on tricentis.com The operations done are:
 
 1.User creation
 2.Validating and Verifying
